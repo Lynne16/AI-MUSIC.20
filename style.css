@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.heading span{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.song{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
